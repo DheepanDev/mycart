@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "A",
+      "description": "A are Rs.100 each",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "B",
+      "description": "B are Rs.200 each",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "title": "C",
+      "description": "C are Rs.300 each",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "title": "D",
+      "description": "D are Rs.400 each",
+      "price": 400
+    }
+  ]
+  
